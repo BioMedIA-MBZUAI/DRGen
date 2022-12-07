@@ -1,2 +1,7 @@
 # DRGen
 Official Repository for the MICCAI 2022 paper titled DRGen: Domain Generalization in Diabetic Retinopathy Classification
+
+Abstract:
+Domain  Generalization  is  a  challenging  problem  in  deeplearning especially in medical image analysis because of the huge diver-sity between different datasets. Existing papers in the literature tendto optimize performance on single target domains, without regards tomodel generalizability on other domains or distributions. High discrep-ancy in the number of images and major domain shifts, can thereforecause single-source trained models to under-perform during testing. Inthis paper, we address the problem of domain generalization in DiabeticRetinopathy (DR) classification. The baseline for comparison is set asjoint training on different datasets, followed by testing on each datasetindividually. We therefore introduce a method that encourages seekinga flatter minima during training while imposing a regularization. Thisreduces gradient variance from different domains and therefore yieldssatisfactory results on out-of-domain DR classification. We show thatadopting DR-appropriate augmentations enhances model performanceand in-domain generalizability. By performing our evaluation on 4 open-source DR datasets, we show that the proposed domain generalizationmethod outperforms separate and joint training strategies as well as well-established methods
+
+Repo is being restructured, will be up again soon.
