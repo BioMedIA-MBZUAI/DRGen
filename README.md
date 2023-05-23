@@ -7,7 +7,7 @@ Domain  Generalization  is  a  challenging  problem  in  deep learning especiall
 The application code we use is based on backbone codes from both SWAD(domainbed)[1] and Fishr [2].
 
 First install requirements using (make sure you are in main folder first):
-'pip install -r requirements.txt'
+<pip install -r requirements.txt>
 
 
 # References
