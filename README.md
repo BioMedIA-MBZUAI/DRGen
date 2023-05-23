@@ -11,6 +11,11 @@ First install requirements using (make sure you are in main folder first):
 pip install -r requirements.txt
 '''
 
+Configuration available in config.yaml and further default arguments can be changed from train_all.py:
+```
+python train_all.py
+```
+
 # References
 1. Cha, J., Cho, H., Lee, K., Park, S., Lee, Y., Park, S.: Domain generalization needs stochastic weight averaging for robustness on domain shifts. CoRR arXiv:2102.08604 (2021)
 2. Ramé, A., Dancette, C., Cord, M.: Fishr: invariant gradient variances for out-of-distribution generalization. CoRR arXiv:2109.02934 (2021)
