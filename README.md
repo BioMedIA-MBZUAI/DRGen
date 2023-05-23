@@ -7,8 +7,9 @@ Domain  Generalization  is  a  challenging  problem  in  deep learning especiall
 The application code we use is based on backbone codes from both SWAD(domainbed)[1] and Fishr [2].
 
 First install requirements using (make sure you are in main folder first):
-<pip install -r requirements.txt>
-
+'''
+pip install -r requirements.txt
+'''
 
 # References
 1. Cha, J., Cho, H., Lee, K., Park, S., Lee, Y., Park, S.: Domain generalization needs stochastic weight averaging for robustness on domain shifts. CoRR arXiv:2102.08604 (2021)
